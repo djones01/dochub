@@ -1,0 +1,4 @@
+C:\Users\DJ\Desktop\dochub\GT\Dochub.DataAccess\bin\Debug\netcoreapp3.1\Rmon.Model.dll
+C:\Users\DJ\Desktop\dochub\GT\Dochub.DataAccess\obj\Debug\netcoreapp3.1\Rmon.DataAccess.csprojAssemblyReference.cache
+C:\Users\DJ\Desktop\dochub\GT\Dochub.DataAccess\obj\Debug\netcoreapp3.1\Rmon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DJ\Desktop\dochub\GT\Dochub.DataAccess\obj\Debug\netcoreapp3.1\Rmon.DataAccess.AssemblyInfo.cs

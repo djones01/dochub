@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dochub.BaseRepository\Rmon.BaseRepository.csproj" />
+    <ProjectReference Include="..\Dochub.DataAccess\Rmon.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
